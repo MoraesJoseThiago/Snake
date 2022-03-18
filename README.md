@@ -1,2 +1,5 @@
-# Snake
-This game is inspired by the snake game
+# Install PYTHON 
+Enable PATH!
+
+# CMD
+pip install pygame
